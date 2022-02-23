@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/MohammedHijazi/purebazaar" target="_blank"><img src="https://raw.githubusercontent.com/MohammedHijazi/purebazaar/static-template-theme/gitlogo.png" width="154"></a></p>
+<p align="center"><a href="https://github.com/MohammedHijazi/purebazaar" target="_blank"><img src="https://raw.githubusercontent.com/MohammedHijazi/purebazaar/master/gitlogo.png" width="154"></a></p>
 
 <p align="center">
 	<h6 align="center">Ver. 0.1</h6>
